@@ -6,7 +6,7 @@
  * @file
  * Public API - implementation
  */
-
+#pragma once
 #include "CDT.h"
 
 #include <algorithm>
